@@ -1,0 +1,10 @@
+C:\Users\Fujitsu User\Downloads\itrw31\VirtualMemory\VirtualMemory\bin\Debug\VirtualMemory.exe.config
+C:\Users\Fujitsu User\Downloads\itrw31\VirtualMemory\VirtualMemory\bin\Debug\VirtualMemory.exe
+C:\Users\Fujitsu User\Downloads\itrw31\VirtualMemory\VirtualMemory\bin\Debug\VirtualMemory.pdb
+C:\Users\Fujitsu User\Downloads\itrw31\VirtualMemory\VirtualMemory\obj\Debug\VirtualMemory.csprojAssemblyReference.cache
+C:\Users\Fujitsu User\Downloads\itrw31\VirtualMemory\VirtualMemory\obj\Debug\VirtualMemory.Form1.resources
+C:\Users\Fujitsu User\Downloads\itrw31\VirtualMemory\VirtualMemory\obj\Debug\VirtualMemory.Properties.Resources.resources
+C:\Users\Fujitsu User\Downloads\itrw31\VirtualMemory\VirtualMemory\obj\Debug\VirtualMemory.csproj.GenerateResource.cache
+C:\Users\Fujitsu User\Downloads\itrw31\VirtualMemory\VirtualMemory\obj\Debug\VirtualMemory.csproj.CoreCompileInputs.cache
+C:\Users\Fujitsu User\Downloads\itrw31\VirtualMemory\VirtualMemory\obj\Debug\VirtualMemory.exe
+C:\Users\Fujitsu User\Downloads\itrw31\VirtualMemory\VirtualMemory\obj\Debug\VirtualMemory.pdb
